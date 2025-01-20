@@ -55,7 +55,7 @@ MIDDLEWARE = [
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
 
-CORS_ALLOWED_ORIGINS = ['https://maxtuma11.github.io./#/','https://maxtuma11.github.io./#/Summaries']
+#CORS_ALLOWED_ORIGINS = ['https://maxtuma11.github.io./#/','https://maxtuma11.github.io./#/Summaries']
 
 ROOT_URLCONF = 'manifestos.urls'
 
